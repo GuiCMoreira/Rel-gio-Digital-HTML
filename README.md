@@ -1,4 +1,4 @@
-ó# Relogio-Digital-HTML
+# Relogio-Digital-HTML
 
 Tenho prazer de compartilhar o projeto Relógio Digital HTML que desenvolvi.
 
