@@ -15,6 +15,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Foi um projeto simples desenvolvido nas aulas de Programação de Scripts na FATEC Faculdade de Tecnologia de Bragança Paulista com o auxílio do professor Luciano Pelissoli.
+###
+<img src="css/Captura de tela 2023-09-14 215435.png" alt="Relógio">
 
 ## :memo: Licença
 
@@ -27,4 +29,3 @@ Esse projeto está sob a licença MIT.
 Feito com ♥ por Guilherme de Carvalho :wave: 
 </p>
 
-<img src="css/Captura de tela 2023-09-14 215435.png" alt="Relógio">
