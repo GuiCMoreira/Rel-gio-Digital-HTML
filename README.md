@@ -1,9 +1,30 @@
-# Relogio-Digital-HTML
+<h1 align="center"> Relogio-Digital-HTML </h1>
 
-Tenho prazer de compartilhar o projeto Relógio Digital HTML que desenvolvi.
+<p align="center">
+Desenvolvido por Guilherme de Carvalho<br>Estudante de Análise e Desenvolvimento de Sistemas<br> FATEC -Bragança Paulista <br/>
+
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
 
 Foi um projeto simples desenvolvido nas aulas de Programação de Scripts na FATEC Faculdade de Tecnologia de Bragança Paulista com o auxílio do professor Luciano Pelissoli.
 
-Foi utilizado HTML, CSS e Javascript no desenvolvimento do projeto.
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+<p align="center">
+Feito com ♥ por Guilherme de Carvalho :wave: 
+</p>
 
 <img src="css/Captura de tela 2023-09-14 215435.png" alt="Relógio">
